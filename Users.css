@@ -3,29 +3,3 @@
     width: 700px;
     display: inline-block;
 }
-#UserInfo{
-    height: 40px;
-    width: 700;
-    border-bottom-style: groove;
-    display: inline-block;
-}
-.last{
-    height: 10px;
-    width: 40px;
-    margin: 4px;
-}
-.first{
-    height: 10px;
-    width: 40px;
-    margin: 4px;
-}
-.email{
-    height: 10px;
-    width: 40px;
-    margin: 4px;
-}
-.contact{
-    height: 10px;
-    width: 40px;
-    margin: 4px;
-}
